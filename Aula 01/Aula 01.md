@@ -264,24 +264,24 @@ O GitHub é uma plataforma de **hospedagem de código-fonte** que permite salvar
 **Estrutura do Repositório:**
 ```scss
 📁 desenvolvimento-web
-├── 📁 Aula 1
-│   └── (Exercícios da Aula 1)
-├── 📁 Aula 2
-│   └── (Exercícios da Aula 2)
-├── 📁 Aula 3
-│   └── (Exercícios da Aula 3)
-├── 📁 Aula 4
-│   └── (Exercícios da Aula 4)
-├── 📁 Aula 5
-│   └── (Exercícios da Aula 5)
-├── 📁 Aula 6
-│   └── (Exercícios da Aula 6)
-├── 📁 Aula 7
-│   └── (Exercícios da Aula 7)
-├── 📁 Aula 8
-│   └── (Exercícios da Aula 8)
-├── 📁 Aula 9
-│   └── (Exercícios da Aula 9)
+├── 📁 Aula 01
+│   └── (Exercícios da Aula 01)
+├── 📁 Aula 02
+│   └── (Exercícios da Aula 02)
+├── 📁 Aula 03
+│   └── (Exercícios da Aula 03)
+├── 📁 Aula 04
+│   └── (Exercícios da Aula 04)
+├── 📁 Aula 05
+│   └── (Exercícios da Aula 05)
+├── 📁 Aula 06
+│   └── (Exercícios da Aula 06)
+├── 📁 Aula 07
+│   └── (Exercícios da Aula 07)
+├── 📁 Aula 08
+│   └── (Exercícios da Aula 08)
+├── 📁 Aula 09
+│   └── (Exercícios da Aula 09)
 ├── 📁 Aula 10
 │   └── (Exercícios da Aula 10)
 ├── 📁 Aula 11
@@ -292,10 +292,18 @@ O GitHub é uma plataforma de **hospedagem de código-fonte** que permite salvar
 │   └── (Exercícios da Aula 13)
 ├── 📁 Aula 14
 │   └── (Exercícios da Aula 14)
-├── 📁 Projetos
-│   └── (Projetos que serão criados ao longo do curso)
-├── 📁 Projeto Final
-│   └── (Projeto final completo feito ao final do curso)
+├── 📁 Aula 15
+│   └── (Exercícios da Aula 15)
+├── 📁 Aula 16
+│   └── (Exercícios da Aula 16)
+├── 📁 Aula 17
+│   └── (Exercícios da Aula 17)
+├── 📁 Aula 18
+│   └── (Exercícios da Aula 18)
+├── 📁 Aula 19
+│   └── (Exercícios da Aula 19)
+├── 📁 Aula 20
+│   └── (Exercícios da Aula 20)
 ```
 
 ---
