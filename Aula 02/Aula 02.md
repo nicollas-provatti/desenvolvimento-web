@@ -1,4 +1,4 @@
-## 📘 Aula 2: Estrutura e Semântica
+## 📘 Aula 2: Estrutura e Tags
 
 ### 🔵 Introdução ao HTML (Revisão)
 
