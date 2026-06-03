@@ -1,0 +1,47 @@
+body {
+  background-color: lavender;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: indigo;
+  text-align: center;
+}
+
+#titulo-primeira-secao {
+  color: mediumpurple;
+  text-align: center;
+}
+
+#titulo-segunda-secao {
+  color: slateblue;
+  text-align: center;
+}
+
+.paragrafo-primeira-secao {
+  color: rebeccapurple;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+.paragrafo-segunda-secao {
+  color: darkslateblue;
+  text-align: justify;
+  line-height: 1.5;
+}
+
+/* Melhorias */
+h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  line-height: 1.5;
+}
+
+/* Seletor Universal */
+* {
+  margin: 0;
+  padding: 0;
+}
