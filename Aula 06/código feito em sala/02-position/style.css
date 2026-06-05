@@ -1,0 +1,50 @@
+body {
+  background-color: lightgray;
+  font-family: sans-serif;
+}
+
+header {
+  background-color: white;
+  padding: 20px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  background-color: white;
+  height: 100vh;
+  margin-top: 40px;
+  max-width: 600px;
+  margin: 40px auto;
+
+  /* position: relative; */
+}
+
+footer {
+  background-color: white;
+  padding: 20px;
+}
+
+.conteudo {
+  width: 100px;
+  height: 100px;
+  background-color: lightcoral;
+
+  /* position: static; */
+}
+
+.contato {
+  width: 30px;
+  height: 30px;
+  background-color: greenyellow;
+  border-radius: 50%;
+
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+
