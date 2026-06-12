@@ -1,0 +1,16 @@
+#container {
+  background-color: #ccc;
+  width: 500px;
+  margin: 20px auto;
+  padding: 10px;
+}
+
+.content {
+  background-color: #727272;
+  margin: 15px;
+  color:white;
+}
+
+.hidden {
+
+}
