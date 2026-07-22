@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  padding: 5px;
+ 
+}
+
+.item {
+  background-color: lightcoral;
+  border: 1px solid black;
+}
+
+header {
+
+}
+
+nav {
+
+}
+
+main {
+
+}
+
+aside {
+
+}
+
+footer {
+
+}
